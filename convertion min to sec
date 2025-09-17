@@ -1,0 +1,3 @@
+inutes=int(input("enter the value"))
+seconds=minutes*60
+print("the convertion is:",seconds)
