@@ -1,0 +1,9 @@
+name=input("enter your name")
+print("the documents required are PAN card ,ADHAAR card, civilscore")
+a=str(input("do you have pan card (yes/no):"))
+b=str(input("do you have adharr card (yes/no):"))
+c=int(input("enter your civil score"))
+if(a,b=="YES" and c>700):
+    print("eligible")
+else:
+    print("not eligible")
