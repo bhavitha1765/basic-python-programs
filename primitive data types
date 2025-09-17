@@ -1,0 +1,6 @@
+my_int=10
+my_float=100.00
+my_bool="True"
+print("integer value is :",my_int)
+print("float value is:", my_float)
+print("boolean value is:",my_bool)
