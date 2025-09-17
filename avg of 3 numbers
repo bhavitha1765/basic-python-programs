@@ -1,0 +1,5 @@
+a=int(input("enter the a value"))
+b=int(input("enter the  b value"))
+c=int(input("enter the  c value"))
+avg_of_num=(a+b+c)/3
+print("the average of the three numbers are:",avg_of_num)
