@@ -1,0 +1,8 @@
+num1=int(input("enter your first number"))
+num2=int(input("enter your second number"))
+print("firstnumber:",num1);
+print("secondnumber:",num2);
+enter your first number 3
+enter your second number 7
+firstnumber: 3
+secondnumber: 7
