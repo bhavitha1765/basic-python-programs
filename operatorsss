@@ -1,0 +1,14 @@
+input("enter the a value"))
+b=int(input("enter the  b value"))
+operator=input("enter the operator:'+','-','*','/'")
+if(operator=='+'):
+    print("a+b")
+elif(operator=='-'):
+    print("a-b")
+elif(operator=='*'):
+    print("a*b")
+elif(operator=='/'):
+    print("a/b")
+else:
+    print("error")
+    
