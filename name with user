@@ -1,0 +1,5 @@
+name=input("enter your  name")
+print("your name:",name)
+enter your  name bhavitha
+your name: bhavitha
+
