@@ -1,0 +1,5 @@
+a=10;
+b=20;
+add=print("the addition of two numbers are:",a+b)
+sub=print("the subtraction of two numbers are:",a-b)
+mul=print("the multiplication of two numbers are:",a*b)
